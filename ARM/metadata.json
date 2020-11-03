@@ -1,7 +1,0 @@
-{
-    "itemDisplayName": "2 VMs with shared disk.",
-    "description": "This template will create a resource group, two Windows VMs, the respective networking resources, and a shared disk between the two VMs.",
-    "summary": "2 VMs with a shared disk.",
-    "githubUsername": "matthansen0",
-    "dateUpdated": "2020-11-03"
-  }
