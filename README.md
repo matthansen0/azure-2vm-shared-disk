@@ -1,4 +1,4 @@
-# azure-2vm-shared-disk
+# (2) Azure VMs with a Shared Disk
 This repository contains the PowerShell and ARM resources to create two virtual machines in Azure with a shared managed disk.
 
 ## Powershell 
