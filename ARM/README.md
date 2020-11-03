@@ -1,3 +1,3 @@
 # Create 2 Virtual Machines with a Shared Disk
 
-[![Deploy To Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMattHansen0%2Fazure-2vm-shared-disk%2Fmaster%2FARM%2azuredeploy.json)  [![Visualize](http://armviz.io/visualizebutton.png)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FMattHansen0%2Fazure-2vm-shared-disk%2Fmaster%2FARM%2Fazuredeploy.json)
+[![Deploy To Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMattHansen0%2Fazure-2vm-shared-disk%2Fmain%2FARM%2Fazuredeploy.json)  [![Visualize](http://armviz.io/visualizebutton.png)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FMattHansen0%2Fazure-2vm-shared-disk%2Fmain%2FARM%2Fazuredeploy.json)
