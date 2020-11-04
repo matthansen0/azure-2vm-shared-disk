@@ -2,5 +2,7 @@
 
 This folder contains the powershell script to deploy two Windows VMs and a shared disk. 
 
-[azure-2vm-shared-disk.ps1](azure-2vm-shared-disk.ps1)
+[Azure-2VM-Shared-Disk.ps1](azure-2vm-shared-disk.ps1)
+
+[Back to main page](../README.md)
 
